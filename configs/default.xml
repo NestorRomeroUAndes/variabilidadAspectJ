@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="talletvariabilidadaspectJ"/>
+    <feature automatic="selected" name="Saldo"/>
+    <feature automatic="selected" name="Retiro"/>
+    <feature automatic="selected" name="Operaciones"/>
+    <feature manual="selected" name="SaldoReducido"/>
+</configuration>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<featureModel>
+    <properties/>
+    <struct>
+        <and abstract="true" mandatory="true" name="talletvariabilidadaspectJ">
+            <feature mandatory="true" name="Saldo"/>
+            <feature mandatory="true" name="Retiro"/>
+            <feature name="Transferencias"/>
+            <feature name="Consignaciones"/>
+            <feature mandatory="true" name="Operaciones"/>
+            <feature name="Auditoria"/>
+            <feature name="SaldoReducido"/>
+        </and>
+    </struct>
+    <constraints/>
+    <calculations Auto="true" Constraints="true" Features="true" Redundant="true" Tautology="true"/>
+    <comments/>
+    <featureOrder userDefined="false"/>
+</featureModel>
